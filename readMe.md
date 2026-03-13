@@ -6,6 +6,7 @@ git add . === seleciona todos os arquivos<br>
 git commit -m === faz o commit de todas as mudanças<br>
 git push origin main === salva as mudnaças no github, na branch main<br>
 
+git checkout "NOME DA BRANCH" === entra em uma branch já criada<br>
 git checkout -b "NOME DA BRANCH" === cria uma nova branch<br>
 O que é branch, uma copia do arquivo main (arquivo principal), para você poder fazer as suas mudanças, e depois pedir para mesclar com a branch main<br>
 
