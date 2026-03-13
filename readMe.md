@@ -16,4 +16,4 @@ git pull origin main === Puxa as mudanças feitas no main (como dito no push) pa
 
 git init === isso cria um novo repositorio<br>
 git remote add origin 'URL DO SEU REPOSITÓRIO DO GITHUB"<br>
-Essa sequência faz você criar um repositório (git init), e depois fala para o git para quando você fizer o commit e o push ele ir para o seu repositório do github (git remote)
+Essa sequência faz você criar um repositório (git init), e depois fala para o git para quando você fizer o commit e o push ele ir para o seu repositório do github (git remote) 
